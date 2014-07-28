@@ -16,8 +16,7 @@
 
 # ------------
 
-
-
+# Hi Kayla! I saw your program during class from github!
 
 def going_hiking (temp) 
 
